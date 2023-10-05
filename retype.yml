@@ -4,6 +4,9 @@ url: https://not-mystify.github.io/cometdocs/
 branding:
   title: Comet Image Host
   label: Docs
+integrations:
+  googleAnalytics:
+    id: G-YLWXV8TBLY
 links:
 - text: Discord
   link: https://discord.gg/HwsrU26j
