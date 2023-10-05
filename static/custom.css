@@ -1,0 +1,22 @@
+* {
+    color: #9500FF;
+    background-color: #000000 !important
+}
+
+div > p {
+    background-color: #272727 !important
+}
+
+div > svg {
+    background-color: #272727 !important
+}
+
+strong {
+    color: #9650c7;
+    background-color: #272727 !important
+}
+
+#docs-app > div.container.relative.flex.bg-white > div.grow.min-w-0.dark\:bg-dark-850 > div > div.min-w-0.p-4.grow.md\:px-16 > div > footer > div.docs-copyright.py-2.text-gray-500.dark\:text-dark-350.text-sm.leading-relaxed > p {
+    color: #9650c7;
+    background-color: #000000 !important
+}
