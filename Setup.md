@@ -4,6 +4,8 @@ icon: gear
 ---
 
 # Setup
+
+## PC
 !!!
 You must download ShareX, we only support ShareX currently.
 !!!
@@ -22,3 +24,18 @@ You must have an account to continue. [Login](https://cometbot.info/login) and g
 4. [!badge size="xs" text="Optional"] Set your hotkeys in the Hotkeys settings.
 
 5. Now you can press your `Capture region` hotkey and then select where you want to screenshot. If you have any issues, join our [Discord](https://discord.gg/HwsrU26j).
+
+## iOS (iPhone)
+!!!
+To use our shortcut your device must be running iOS 13.0 or later.
+!!!
+
+1. [Download our iOS Shortcut](https://www.icloud.com/shortcuts/87061c1c00024152a38e8d8516d32446)
+
+!!!
+For the next step you will need your upload key from your [Comet settings](https://cometbot.info/settings) page.
+!!!
+
+2. Follow the setup process.
+
+3. You are good to go!
