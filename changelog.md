@@ -7,7 +7,26 @@ This page is updated upon release of an update or feature addition.
 ## Update history
 ---
 
-## v1.0.0 [!badge text="LATEST" variant="info"]
+## v1.0.1 [!badge text="LATEST" variant="info"]
+
+Released: 2023-10-10
+
++++ New :icon-shield-check:
+- [x] New gradient background.
+- [x] New dashboard look and feel.
+- [x] Rainbow username on dashboard.
++++ Improved :icon-thumbsup:
+- [x] Speed of sitewide page loading even more.
+- [x] Security of some endpoints.
++++ Removed :icon-x:
+- [x] ADs (will be back in the future)
++++
+
+---
+
+---
+
+## v1.0.0
 
 Released: 2023-10-06
 
