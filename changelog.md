@@ -9,7 +9,7 @@ This page is updated upon release of an update or feature addition.
 
 ## v1.0.1 [!badge text="LATEST" variant="info"]
 
-Released: 2023-10-10
+Released: 2023-10-09
 
 +++ New :icon-shield-check:
 - [x] New gradient background.
