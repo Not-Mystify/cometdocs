@@ -18,9 +18,11 @@ You must have an account to continue. [Login](https://cometbot.info/login) and g
 
 3. Press `Yes` on the box that appears.
 
+:::
 !!!
 Hotkeys are optional.
 !!!
+:::
 
 4 . Set your hotkeys in the Hotkeys settings.
 
