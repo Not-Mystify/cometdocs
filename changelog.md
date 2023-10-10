@@ -17,7 +17,7 @@ Released: 2023-10-10
 - [x] New dashboard look and feel.
 - [x] Rainbow username on dashboard.
 +++ Improved :icon-thumbsup:
-- [x] Speed of sitewide page loading even more.
+- [x] Improved the speed of site-wide page loading even more.
 - [x] Security of some endpoints.
 +++ Removed :icon-x:
 - [x] ADs (will be back in the future)
