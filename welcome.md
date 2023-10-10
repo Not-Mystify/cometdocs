@@ -1,3 +1,7 @@
+---
+icon: star
+---
+
 # Welcome
 
 ## What is Comet?
