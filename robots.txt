@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://not-mystify.github.io/cometdocs/sitemap.xml.gz
+Sitemap: https://docs.cometbot.info/sitemap.xml.gz
