@@ -24,6 +24,6 @@ Hotkeys are optional.
 !!!
 :::
 
-4 . Set your hotkeys in the Hotkeys settings.
+4. Set your hotkeys in the Hotkeys settings.
 
 5. Now you can press your `Capture region` hotkey and then select where you want to screenshot. If you have any issues, join our [Discord](https://discord.gg/HwsrU26j).
