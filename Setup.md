@@ -12,4 +12,8 @@ You must have an account to continue. [Login](https://cometbot.info/login) and g
 
 2. Run the downloaded file.
 
-3. Now you can press your `prtsc` button and then select where you want to screenshot. If you have any issues, join our [Discord](https://discord.gg/HwsrU26j).
+3. Press `Yes` on the box that appears.
+
+4 (Optional). Set your hotkeys in the Hotkeys settings.
+
+5. Now you can press your `prtsc` button and then select where you want to screenshot. If you have any issues, join our [Discord](https://discord.gg/HwsrU26j).
