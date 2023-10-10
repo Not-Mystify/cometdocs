@@ -1,3 +1,7 @@
+---
+order: 999
+---
+
 # Setup
 !!!
 You must download ShareX, we only support ShareX currently.
