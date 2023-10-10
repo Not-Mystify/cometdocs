@@ -13,6 +13,7 @@ Released: 2023-10-10
 
 +++ New :icon-shield-check:
 - [x] New gradient background.
+- [x] iOS Support through a Shortcut.
 - [x] New dashboard look and feel.
 - [x] Rainbow username on dashboard.
 +++ Improved :icon-thumbsup:
