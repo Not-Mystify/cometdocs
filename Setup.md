@@ -26,7 +26,7 @@ You must have an account to continue. [Login](https://cometbot.info/login) and g
 5. Now you can press your `Capture region` hotkey and then select where you want to screenshot. If you have any issues, join our [Discord](https://discord.gg/HwsrU26j).
 
 ## iOS (iPhone)
-!!!
+!!!warning
 To use our shortcut your device must be running iOS 13.0 or later.
 !!!
 
