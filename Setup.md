@@ -16,7 +16,7 @@ You must have an account to continue. [Login](https://cometbot.info/login) and g
 
 2. Run the downloaded file.
 
-3. Press `Yes` on the box that appears.
+3. Press the `Yes` button on the box that appears.
 
 :::
 !!!
