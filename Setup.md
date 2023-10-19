@@ -30,7 +30,7 @@ You must have an account to continue. [Login](https://cometbot.info/login) and g
 To use our shortcut your device must be running iOS 13.0 or later.
 !!!
 
-1. [Download our iOS Shortcut](https://www.icloud.com/shortcuts/2579c9fb53fd4fd59dce5c3eb303a450)
+1. [Download our iOS Shortcut](https://www.icloud.com/shortcuts/ab36fb52ad824f8bb1f12aadf487b46e)
 
 !!!
 For the next step you will need your upload key from your [Comet settings](https://cometbot.info/settings) page.
